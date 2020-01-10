@@ -1,0 +1,20 @@
+{
+  "name": "vue-preset",
+  "version": "1.0.0",
+  "description": "vue cli preset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vusion/vue-preset.git"
+  },
+  "keywords": [],
+  "author": "zhangsanshi5566@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vusion/vue-preset/issues"
+  },
+  "homepage": "https://github.com/vusion/vue-preset#readme"
+}
